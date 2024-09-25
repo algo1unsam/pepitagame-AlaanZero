@@ -1,5 +1,6 @@
 import pepita.*
 import wollok.game.*
+import randomizer.*
 
 object nido {
 
@@ -15,9 +16,13 @@ object nido {
 
 
 object silvestre {
-
 	method image() = "silvestre.png"
 
-	method position() = game.origin()
+	method position() = game.at(self.restriccion(),0)
+
+	method restriccion() = pepita.position().x().max(3)
 	
 }
+
+
+
