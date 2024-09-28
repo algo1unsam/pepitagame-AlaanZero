@@ -1,7 +1,9 @@
 import pepita.*
 import wollok.game.*
+import comidas.*
 
 object nido {
+	method esNido() = true
 
 	var property position = game.at(7, 8)
 
@@ -15,9 +17,12 @@ object nido {
 
 
 object silvestre {
+	method esSilvestre() = true
 
 	method image() = "silvestre.png"
 
-	method position() = game.origin()
-	
+	method restriccion() = pepita.position().x().max(3)
+
+	method position() = game.at(self.restriccion(),0)
+
 }
