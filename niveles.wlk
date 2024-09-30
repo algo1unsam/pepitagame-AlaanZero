@@ -41,7 +41,7 @@ object tutorial3 {
 	}
 
 }
-
+//
 object config {
 
 	method configurarTeclas() {

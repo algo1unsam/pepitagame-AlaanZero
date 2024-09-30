@@ -425,3 +425,10 @@
 {"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":7374,"timestamp":"2024-09-30T19:03:53.930Z"}
 {"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":6286,"timestamp":"2024-09-30T19:04:03.976Z"}
 {"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":7274,"timestamp":"2024-09-30T19:04:19.666Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":102,"timestamp":"2024-09-30T19:05:17.822Z"}
+{"level":"info","message":"⌛ Validating niveles.wlk","timeElapsed":103,"timestamp":"2024-09-30T19:05:23.777Z"}
+{"level":"info","message":"onRequest - STRONG_FILES_CHANGED:c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero\\testExample.wtest","timestamp":"2024-09-30T19:05:41.420Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":152,"timestamp":"2024-09-30T19:05:41.654Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Alan/Desktop/PROGAMACION/WOLLOK/pepitagame-AlaanZero","timestamp":"2024-09-30T19:05:41.697Z"}
+{"level":"info","message":"Removing diagnostics from \\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero\\testExample.wtest","timestamp":"2024-09-30T19:05:41.769Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":13582,"timestamp":"2024-09-30T19:06:08.031Z"}

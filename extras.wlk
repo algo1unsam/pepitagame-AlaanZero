@@ -14,7 +14,7 @@ object nido {
 		game.schedule(2000, { game.stop() })
 	}
 }
-
+//
 
 object silvestre {
 	method esSilvestre() = true
