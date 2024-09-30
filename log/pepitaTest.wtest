@@ -19,7 +19,7 @@ describe "Tests de Pepita" {
 		pepita.vola(1)
 		assert.equals(91, pepita.energia())
 	}
-//
+
 	test "Al volar mucho pepita queda cansada" {
 		pepita.vola(100)
 		assert.that(pepita.estaCansada())

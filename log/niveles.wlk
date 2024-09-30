@@ -37,11 +37,11 @@ object tutorial3 {
 		game.addVisual(pepita)
 		config.configurarTeclas()
 		config.configurarColisiones()
-		game.onTick(800, "gravedad", { pepita.bajar() })	
+		game.onTick(3000, "gravedad", { pepita.bajar() })	
 	}
 
 }
-//
+
 object config {
 
 	method configurarTeclas() {

@@ -23,7 +23,9 @@ method image() {
    } else {
 	"pepita.png"
    }
-	}//
+	}
+
+
 
 	method come(comida) {
 		game.say(self, self.cuantaEnergia())
