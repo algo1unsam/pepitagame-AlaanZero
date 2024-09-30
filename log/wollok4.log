@@ -415,3 +415,13 @@
 {"level":"info","message":"⌛ Building environment","timeElapsed":132,"timestamp":"2024-09-28T18:15:44.371Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":143,"timestamp":"2024-09-28T18:15:46.349Z"}
 {"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":12109,"timestamp":"2024-09-28T18:15:59.300Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":135,"timestamp":"2024-09-30T19:02:48.540Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Alan/Desktop/PROGAMACION/WOLLOK/pepitagame-AlaanZero","timestamp":"2024-09-30T19:02:48.542Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":134,"timestamp":"2024-09-30T19:02:49.825Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2024-09-30T19:02:52.240Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":10140,"timestamp":"2024-09-30T19:03:07.577Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":4415,"timestamp":"2024-09-30T19:03:15.239Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":103,"timestamp":"2024-09-30T19:03:19.329Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":7374,"timestamp":"2024-09-30T19:03:53.930Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":6286,"timestamp":"2024-09-30T19:04:03.976Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Alan\\Desktop\\PROGAMACION\\WOLLOK\\pepitagame-AlaanZero","timeElapsed":7274,"timestamp":"2024-09-30T19:04:19.666Z"}
